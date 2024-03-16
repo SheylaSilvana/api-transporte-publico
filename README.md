@@ -48,7 +48,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 ## Interface da Aplicação
 
-Aqui está uma visão da nossa aplicação em ação:
+Aqui está uma visão da aplicação em ação:
 
 ![api-transporte-publico](https://github.com/SheylaSilvana/api-transporte-publico/assets/57454583/1d719855-5288-4f54-81f1-368bc56de19f)
 

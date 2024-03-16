@@ -46,7 +46,7 @@ A API fornece os seguintes endpoints:
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
-### Interface da Aplicação
+## Interface da Aplicação
 
 Aqui está uma visão da nossa aplicação em ação:
 

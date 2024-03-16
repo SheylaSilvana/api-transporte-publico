@@ -48,9 +48,7 @@ Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 ## Observações
 
-Lembre-se de substituir os placeholders (como `[URL_DO_REPOSITORIO]`, `seu_usuario`, `seu_repositorio`, etc.) com as informações reais do seu projeto.
-
-Para adicionar imagens ao README, você pode fazer upload delas diretamente no GitHub e utilizar a seguinte sintaxe para incorporá-las ao arquivo:
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
 ### Interface da Aplicação
 
